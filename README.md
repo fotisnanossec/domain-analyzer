@@ -116,6 +116,30 @@ The GUI allows you to enter a domain, initiate a scan, and view live status upda
 
 -----
 
-### License
 
+
+
+### License
 This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+
+
+
+
+
+
+
+
+
+
+<img width="1903" height="761" alt="Screenshot_mock_data" src="https://github.com/user-attachments/assets/fc1149ed-ccd3-4a5c-9dea-baa09edb9f46" />
+
+
+
+
+
+
+
+
+
+
+
