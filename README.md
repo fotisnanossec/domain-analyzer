@@ -205,7 +205,7 @@ This project is licensed under the MIT License, making it suitable for:
 - **Professional Development**: Foundation for building enterprise security tools
 - **Open Source Contribution**: Community collaboration on security tool development
 
-**Professional Note**: This tool is designed for legitimate security testing and assessment activities. Users are responsible for ensuring compliance with applicable laws and regulations, including proper authorization for all reconnaissance activities.
+**Note**: This tool is designed for legitimate security testing and assessment activities. Users are responsible for ensuring compliance with applicable laws and regulations, including proper authorization for all reconnaissance activities.
 
 ---
 
