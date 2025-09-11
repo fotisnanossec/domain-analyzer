@@ -1,0 +1,15 @@
+[llm]
+# Host for the LM Studio API server.
+# Set this to the IP and port where your local LLM is running.
+host = "localhost:1234"
+
+# Parameters for the chat completion API call.
+# Refer to your LLM documentation for supported models and values.
+model = "mistral-nemo-instruct-2407"
+temperature = 0.8
+max_tokens = 16384
+timeout = 4800
+
+[paths]
+# Directory where generated security reports will be saved.
+reports_dir = "reports"
