@@ -199,11 +199,7 @@ domain-analyzer/
 
 ## 📋 License & Professional Use
 
-This project is licensed under the MIT License, making it suitable for:
-- **Portfolio Demonstration**: Showcasing technical capabilities to potential employers
-- **Educational Use**: Learning and teaching cybersecurity reconnaissance techniques  
-- **Professional Development**: Foundation for building enterprise security tools
-- **Open Source Contribution**: Community collaboration on security tool development
+This project is licensed under the MIT License
 
 **Note**: This tool is designed for legitimate security testing and assessment activities. Users are responsible for ensuring compliance with applicable laws and regulations, including proper authorization for all reconnaissance activities.
 
